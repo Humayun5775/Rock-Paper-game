@@ -1,0 +1,28 @@
+project
+├── client
+│   ├── src
+│   │   ├── components
+│   │   │   ├── Game.js
+│   │   │   ├── Score.js
+│   │   │   ├── Selection.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   ├── public
+│   │   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── README.md
+├── server
+│   ├── controllers
+│   │   ├── gameController.js
+│   ├── models
+│   │   ├── Game.js
+│   ├── routes
+│   │   ├── api
+│   │   │   ├── game.js
+│   ├── index.js
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── README.md
+├── package.json
+├── package-lock.json
